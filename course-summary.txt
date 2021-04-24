@@ -1,0 +1,30 @@
+#Machine learning
+
+1. Data preprocessing:
+	This is an essential step as the quality of the data you're using has an impact on the results you'll achieve.
+	Basically, here is where you want to get blank rows out of your data and frame what you have in the right requirements (data encoding, split your data and get the feature scaling done - if it's needed).
+	You want to feature scale data when the gap between the numbers you have may affect the results, like you have a column of indexes and a column of sallaries, for instance, so there's a big gap in between (1,2,3... and 10000, 40000 - great difference, but it means nothing, for results sake), in this case, you must feature scale your data.
+	
+2. Regression:
+	You'll need regression when we're talking about predicting results. It can be linear, polynomial and several others - decision tree, random forest, for instance - it depends on what kind of independent variables - x - you'll have.
+	
+3. Classification:
+	Classification, as regression, refers to predicting, but this time, you're predicting a category to some data - so you already have the data, you just need to know how to label it.
+
+4. Clustering:
+	This is similar to classification, the difference between them is that classification is used in supervised learning, whilst clustering is used for unsupervised learning.
+
+5. Association rule learning:
+	This is used to find out which elements occur commonly in a given set of data.
+	
+6. Reinforcement learning:
+	Like unsupervised learning and supervised learning, reinforcement learning is a machine learning paradigm.
+	
+7. Natural language processing:
+	It is a field in machine learning that aims to understand human language.
+
+8. Deep learning:
+	Under the machine learning umbrella, this specific field studies neural networks and how they simulate the human brain.
+
+9.  Dimensionality reduction:
+	This is about getting data from a high-dimensional space into a low-dimensional one.
